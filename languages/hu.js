@@ -1,7 +1,7 @@
 const language = {
     loadevent: "Lejátszó esemény betöltve",
     loadcmd: "Parancs betöltve",
-    ready: " sikeresen kapcsolődott.",
+    ready: " sikeresen kapcsolódott.",
     loadslash: "Sikeresen újratöltött app [/] parancsok.",
     error1: "A Bot Token amit te beírtál a Project mappádba hibás vagy a Bot-od INTENTS-jei ki vannak kapcsolvaF!",
     error2: "Kérlek állítsd be a bot token-jét a token.js-ben vagy az .env file-odban a projectedben!",
