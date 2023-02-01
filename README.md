@@ -1,44 +1,11 @@
 # Discord.js v14 Slash Commands Music Bot
-Add MusicMaker: https://bit.ly/3R4uTSf<br>
-![](https://komarev.com/ghpvc/?username=umutxyp&color=blue)
+<h1>Add MusicMaker: https://bit.ly/3R4uTSf</h1><br>
 
-## ABOUT V14.4 UPDATE / news: 2022, 4 DECEMBER
-- Addeed Italian language.
 
-## ABOUT V14.3 UPDATE / news: 2022, 2 DECEMBER
-- Addeed Arabic language.
-- Added auto play command.
-
-## ABOUT V14.2 UPDATE / news: 2022, 21 NOVEMBER 
-- Added seek command.
-
-## ABOUT V14.1 UPDATE / news: 2022, 20 NOVEMBER 
-- The shard feature has been added to the MusicMaker discord bot and now a new shard will be created for every 1000 servers.
-
-## ABOUT V14 UPDATE / news: 2022, 10 NOVEMBER
-- Addeed Portuguese and Chinese language.
-
-## ABOUT V13.7 UPDATE / news: 2022, 2 OCTOBER
-- Added french language.
-- Filter command has been made manageable with buttons.
-- Minor bug fixes.
-- Shuffle command added.
-
-## ABOUT V13.5 UPDATE / news: 2022, 4 SEPTEMBER
-- Added top.gg vote manager settings.
-- Added Dutch language
-- Use distube module
-- Event folders have been recreated.
-- The bot's database has been changed to mongodb.
-- Multi language option added.
-- Added personal playlist creation commands.
-- Added new player features. (config.js)
-- All commands are functionally optimized for discord.js v14.
-- Open music with youtube video link
-- Specify the specific channel in which the command will be used.
-- Added changing embed color code from settings file.
-- The /language command added so that the language system can be adjusted for each server.
-- Added detailed information about the specified command to the help command. (/help info command)
+## About my update
+- I added HU Language to the bot
+- Added Batch file to instantly run (might need modify to your extracted position)
+- Added play next and play skip option (heavily requested)
 
 
 ## About Bot
@@ -54,8 +21,8 @@ Add MusicMaker: https://bit.ly/3R4uTSf<br>
 
 ## Supported audio playback platforms:
 - YouTube
-- Spotify 
-- SoundCloud 
+- Spotify
+- SoundCloud
 - Vimeo
 - Reverbnation
 - Facebook
@@ -77,9 +44,9 @@ Add MusicMaker: https://bit.ly/3R4uTSf<br>
 
 ### Notes on Discord Bot Setup
 - Make sure to enable all intents in the Discord Developer Portal
-![image](https://user-images.githubusercontent.com/4060573/181925950-0403ec46-f606-4ae2-bac8-6a2e30d10d9f.png)
+  ![image](https://user-images.githubusercontent.com/4060573/181925950-0403ec46-f606-4ae2-bac8-6a2e30d10d9f.png)
 - You will also need to invite the bot using the correct scope and permissions, which you can do here:
-![image](https://user-images.githubusercontent.com/4060573/181926061-310e817a-97c5-48d8-adce-77a505c36336.png)
+  ![image](https://user-images.githubusercontent.com/4060573/181926061-310e817a-97c5-48d8-adce-77a505c36336.png)
 
 
 ### Links
