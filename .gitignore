@@ -59,6 +59,7 @@ yarn-error.log*
 
 
 # Dependency directories
+node_modules/
 jspm_packages/
 
 # Optional npm cache directory
@@ -88,3 +89,4 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+/node_modules/
